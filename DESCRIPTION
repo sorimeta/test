@@ -1,11 +1,11 @@
 Package: test
 Type: Package
-Title: What the Package Does (Title Case)
+Title: tools::toTitleCase("favorite R functions for <www.sohui96.com>")
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Date: 2020-11-28
+Authors@R: person("Sohui", "Kim", email = "rosesh0218@gmail.com", role = c("aut", "cre"))
+Description: This package has many functions which are used in project.
+License: use_mit_license(copyright_holder = "Sohui Kim")
 Encoding: UTF-8
 LazyData: true
+Description: given in the title.

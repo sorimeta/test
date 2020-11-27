@@ -1,11 +1,11 @@
 Package: test
 Type: Package
-Title: tools::toTitleCase("favorite R functions for <www.sohui96.com>")
+Title@R: tools::toTitleCase("favorite R functions for <www.sohui96.com>")
 Version: 0.1.0
 Date: 2020-11-28
 Authors@R: person("Sohui", "Kim", email = "rosesh0218@gmail.com", role = c("aut", "cre"))
 Description: This package has many functions which are used in project.
-License: use_mit_license(copyright_holder = "Sohui Kim")
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-Description: given in the title.
+RoxygenNote: 7.1.1
